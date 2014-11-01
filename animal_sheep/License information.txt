@@ -8,6 +8,16 @@ Hosted by OpenGameArt.org
 
 Available under GFDL 1.2 or later or CC-BY-SA 3.0 or later
 
+Sound Mudchute_sheep_1.ogg:
+By healthyfood
+Copyright waived under "CC0 1.0 Universal (CC0 1.0)"
+http://creativecommons.org/publicdomain/zero/1.0/
+Licensed under "Attribution 4.0 International (CC BY 4.0)" or any later version.
+http://creativecommons.org/licenses/by/4.0/
+
+http://ccmixter.org/content/freefromlimits/freefromlimits_-_animal_sounds_with_my_voice.ogg
+Hosted by ccMixter.org
+
 Everything not mentioned:
 	CC-BY-SA 3.0, Author sapier
 	URL: http://creativecommons.org/licenses/by-sa/3.0/de/legalcode
